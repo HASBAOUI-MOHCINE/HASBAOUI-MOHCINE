@@ -2,8 +2,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
 ###
 
 <div align="left">
@@ -29,10 +27,10 @@
 ###
 
 <div align="left">
-  <a href="www.instagram.com/mh7__x" target="_blank">
+  <a href="https://www.instagram.com/mh7__x" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="hasbaouimohcin12@gmail.com" target="_blank">
+  <a href="https://hasbaouimohcin12@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/mohcine-hasbaoui/" target="_blank">
